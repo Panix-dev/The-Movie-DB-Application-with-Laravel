@@ -1,4 +1,4 @@
-# The Movie DB Application using Laravel and Laravel Livewire
+# The Movie DB App using Laravel and Laravel Livewire
 
 > An example of how to implement some of the new features of Laravel 7 like the HTTP Client and Blade Components 
 
