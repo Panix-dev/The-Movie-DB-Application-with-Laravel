@@ -24,7 +24,7 @@ A Movie Application using Laravel, Tailwind CSS and The Movie DB REST API to ret
 
 
 <br/>
-<img src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_short-8e7b30f73a4020692ccca9c88bafe5dcb6f8a62a4c6bc55cd9ba82bb2cd95f6c.svg" style="width:250px;" title="The Movie DB" alt="The Movie DB">
+<img src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_short-8e7b30f73a4020692ccca9c88bafe5dcb6f8a62a4c6bc55cd9ba82bb2cd95f6c.svg" width="250 title="The Movie DB" alt="The Movie DB">
 
 The Movie Database (TMDb) is a community built movie and TV database. Every piece of data has been added by the amazing community dating back to 2008. TMDb's strong international focus and breadth of data is largely unmatched. Put simply, they live and breathe community and that's precisely what makes them different.
 
@@ -38,6 +38,10 @@ The Movie Database (TMDb) is a community built movie and TV database. Every piec
 <img src="https://pagapiou.com/images/laravel-livewire.png" title="Laravel Livewire" alt="Laravel Livewire">
 
 Livewire is a full-stack framework for Laravel that makes building dynamic interfaces simple, without leaving the comfort of Laravel. 
+
+
+- :link: [Laravel Livewire](https://laravel-livewire.com/)
+
 
 ```php
 public $search = '';
@@ -80,9 +84,6 @@ public function render()
 
 <div wire:loading class="spinner top-0 right-0 mr-4 mt-3"></div>
 ```
-
-
-- :link: [Laravel Livewire](https://laravel-livewire.com/)
 
 
 ## Tailwind CSS
